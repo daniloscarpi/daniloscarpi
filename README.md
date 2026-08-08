@@ -7,14 +7,22 @@ para aprender tudo que for possível, praticar e acompanhar minha evolução.
 Usar este GitHub para documentar meu aprendizado, criar projetos simples
 e evoluir como DevOps.
 
+Pós Graduação:
+- Engenharia DevOps (cursando 2026-2027)
+- Gestão de Projetos 2023
+
+Graduação:
+- Gestão da Tecnologia da Informação 2018
+
 🛠️ Tecnologias:
-- Git / GitHub / Tortoise / GitLab
-- Jenkins CI / CD
+- Git / GitHub / GitLab / TortoiseGit / 
+- Ambiente DevOps CI / CD
+- GitHub Actions (iniciante)
 - Python (iniciante)
-- JavaScript (basico)
-- HTML e CSS (básico)
+- Front-End (JavaScript, HTML e CSS) (basico)
+
 
 Idiomas:
-- Espanhol Fluente (nivel nativo)
+- Espanhol Fluente Experiência internacional (nível nativo)
 - Ingles Técnico avançado
   
